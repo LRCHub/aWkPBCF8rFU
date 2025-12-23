@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビューティー・アンド・ア・ビート",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2025-12-23T17:39:52.852115Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beauty And A Beat (feat. Nicki Minaj)",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_Beauty_And_A_Beat_(feat._Nicki_Minaj)_Justin_Bieber.txt"
+    }
+  ]
+}
